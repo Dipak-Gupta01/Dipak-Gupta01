@@ -4,4 +4,4 @@
 - :technologist: Currently a UnderGraduate Student 
 - 🔭 I’m currently working on Data Visualization 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- 📫 How to reach me: Linkedin - @dipak-sahu
+- 📫 How to reach me: Linkedln-@dipak-sahu
