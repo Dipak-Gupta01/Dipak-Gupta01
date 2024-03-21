@@ -63,8 +63,3 @@ Something about me :-
 </div>
 
 ###
-<br clear="both">
-
-![snake animation](https://github.com/Dipak-Gupta01/Dipak-Gupta01/blob/output/github-contribution-grid-snake2.svg)
-
-###
